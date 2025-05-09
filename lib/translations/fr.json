@@ -1,0 +1,149 @@
+{
+    "settings": {
+        "title": "Paramètres",
+        "theme": "Thème",
+        "language": "Langue",
+        "change_password": "Changer le mot de passe",
+        "old_password": "Ancien mot de passe",
+        "new_password": "Nouveau mot de passe",
+        "missing_fields": "❌ Veuillez entrer tous les champs",
+        "success": "✅ Mot de passe changé avec succès",
+        "error": "❌ Erreur lors du changement de mot de passe"
+    },
+"login": {
+    "title": "Connexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "button": "Se connecter",
+    "register_redirect": "Créer un compte",
+    "success": "✅ Connexion réussie !",
+    "error": "⚠️ Erreur de connexion",
+    "invalid_credentials": "⚠️ Identifiants incorrects",
+    "email_required": "Veuillez entrer un email",
+    "email_invalid": "Email invalide",
+    "password_required": "Veuillez entrer un mot de passe",
+    "password_too_short": "Le mot de passe doit contenir au moins 6 caractères"
+},
+"register": {
+    "title": "Créer un compte",
+    "username": "Nom d'utilisateur",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "button": "S'inscrire",
+    "login_redirect": "Déjà un compte ? Connectez-vous !",
+    "success": "✅ Inscription réussie !",
+    "error": "⚠️ Utilisateur déjà existant ou erreur réseau",
+    "username_required": "Veuillez entrer un nom d'utilisateur",
+    "email_required": "Veuillez entrer un email",
+    "email_invalid": "Email invalide",
+    "password_required": "Veuillez entrer un mot de passe",
+    "password_too_short": "Le mot de passe doit contenir au moins 6 caractères",
+    "confirm_required": "Veuillez confirmer le mot de passe",
+    "passwords_not_matching": "⚠️ Les mots de passe ne correspondent pas"
+},
+"dashboard": {
+    "title": "Dashboard",
+    "welcome": "Bienvenue,",
+    "manage_clients": "Gérer les clients"
+},
+"drawer": {
+    "menu": "Menu",
+    "navigation": "Navigation",
+    "dashboard": "Dashboard",
+    "profile": "Profil",
+    "client_management": "Gestion des clients",
+    "clients": "Clients",
+    "catalog": "Catalogue partenaires",
+    "administration": "Administration",
+    "user_management": "Gestion des utilisateurs",
+    "account": "Compte",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+},
+"profile": {
+    "title": "Profil",
+    "admin": "Administrateur"
+},
+"admin_users": {
+    "title": "Gestion des utilisateurs",
+    "admin": "Admin",
+    "make_admin": "Promouvoir en admin",
+    "remove_admin": "Retirer l'admin",
+    "delete": "Supprimer",
+    "promoted": "✅ Utilisateur promu en admin",
+    "demoted": "✅ Admin rétrogradé en utilisateur",
+    "deleted": "✅ Utilisateur supprimé",
+    "error_action": "❌ Erreur lors de l'opération",
+    "error_delete": "❌ Erreur lors de la suppression",
+    "error_loading": "Impossible de récupérer la liste des utilisateurs"
+},
+"clients": {
+    "title": "Gestion des clients",
+    "edit": "Éditer le client",
+    "delete": "Supprimer le client",
+    "add": "Ajouter un client",
+    "add_client": "Ajouter un client",
+    "edit_client": "Modifier le client",
+    "name": "Nom",
+    "first_name": "Prénom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "needs": "Besoins",
+    "budget": "Budget",
+    "notes": "Notes",
+    "save": "Enregistrer",
+    "required": "Ce champ est requis",
+    "no_clients": "Aucun client pour le moment",
+    "invalid_email": "Email invalide",
+    "invalid_phone": "Numéro de téléphone invalide",
+    "invalid_budget": "Veuillez entrer un budget valide (ex: 1200.00)",
+    "deleted_success": "✅ Client supprimé avec succès",
+    "delete_error": "❌ Erreur lors de la suppression",
+    "delete_confirm_title": "Confirmation",
+    "delete_confirm_message": "Voulez-vous vraiment supprimer ce client ?",
+    "delete_confirm_cancel": "Annuler",
+    "delete_confirm_confirm": "Supprimer",
+    "search_hint": "Rechercher un client...",
+    "empty": "Aucun client trouvé",
+    "export_pdf": "Exporter en PDF"
+},
+"partner_catalog": {
+    "title": "Nos partenaires",
+    "empty": "Aucun produit disponible pour le moment.",
+    "load_error": "Erreur de chargement des produits",
+    "no_link": "Aucun lien disponible",
+    "link_error": "Impossible d’ouvrir le lien"
+},
+"partners": {
+    "forever": {
+        "aloe": "Produits Aloe Vera & bien-être"
+    },
+    "infinity": {
+        "stone": "Revêtements & surfaces en pierre"
+    },
+    "doterra": {
+        "essential_oils": "Huiles essentielles thérapeutiques"
+    },
+    "lucibell": {
+        "lights": "Lampes bien-être & luminothérapie"
+    },
+    "podcalm": {
+        "relax": "Guides audio & méditation relaxante"
+    },
+    "serenity": {
+        "headphones": "Casques de méditation & bien-être"
+    },
+    "mandalas": {
+        "jewelry": "Bijoux énergétiques & huiles essentielles"
+    },
+    "spadaccini": {
+        "marble": "Marbres & granits de luxe"
+    }
+},
+"history": {
+    "title": "Historique des fiches",
+    "created": "Créé le",
+    "empty": "Aucune fiche trouvée"
+}
+}

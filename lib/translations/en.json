@@ -1,0 +1,150 @@
+{
+    "settings": {
+        "title": "Settings",
+        "theme": "Theme",
+        "language": "Language",
+        "change_password": "Change Password",
+        "old_password": "Old password",
+        "new_password": "New password",
+        "missing_fields": "❌ Please fill in all fields",
+        "success": "✅ Password successfully changed",
+        "error": "❌ Error while changing password"
+    },
+"login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "button": "Log In",
+    "register_redirect": "Create an account",
+    "success": "✅ Login successful!",
+    "error": "⚠️ Login error",
+    "invalid_credentials": "⚠️ Incorrect credentials",
+    "email_required": "Please enter an email",
+    "email_invalid": "Invalid email address",
+    "password_required": "Please enter a password",
+    "password_too_short": "Password must be at least 6 characters long"
+},
+"register": {
+    "title": "Create an Account",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "button": "Sign Up",
+    "login_redirect": "Already have an account? Log in!",
+    "success": "✅ Registration successful!",
+    "error": "⚠️ User already exists or network error",
+    "username_required": "Please enter a username",
+    "email_required": "Please enter an email",
+    "email_invalid": "Invalid email",
+    "password_required": "Please enter a password",
+    "password_too_short": "Password must be at least 6 characters long",
+    "confirm_required": "Please confirm the password",
+    "passwords_not_matching": "⚠️ Passwords do not match"
+},
+"dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome,",
+    "manage_clients": "Manage clients"
+},
+"drawer": {
+    "menu": "Menu",
+    "navigation": "Navigation",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "client_management": "Client Management",
+    "clients": "Clients",
+    "catalog": "Partner Catalog",
+    "administration": "Administration",
+    "user_management": "User Management",
+    "account": "Account",
+    "settings": "Settings",
+    "logout": "Logout"
+},
+"profile": {
+    "title": "Profile",
+    "admin": "Administrator"
+},
+"admin_users": {
+    "title": "User Management",
+    "admin": "Admin",
+    "make_admin": "Promote to admin",
+    "remove_admin": "Demote from admin",
+    "delete": "Delete",
+    "promoted": "✅ User promoted to admin",
+    "demoted": "✅ Admin demoted to user",
+    "deleted": "✅ User deleted",
+    "error_action": "❌ Error during action",
+    "error_delete": "❌ Error while deleting",
+    "error_loading": "Failed to load user list"
+},
+"clients": {
+    "title": "Client Management",
+    "edit": "Edit client",
+    "delete": "Delete client",
+    "add": "Add client",
+    "add_client": "Add client",
+    "edit_client": "Edit client",
+    "name": "Name",
+    "first_name": "First name",
+    "email": "Email",
+    "phone": "Phone",
+    "needs": "Needs",
+    "budget": "Budget",
+    "notes": "Notes",
+    "save": "Save",
+    "required": "This field is required",
+    "no_clients": "No clients yet",
+    "invalid_email": "Invalid email address",
+    "invalid_phone": "Invalid phone number",
+    "invalid_budget": "Please enter a valid budget (e.g. 1200.00)",
+    "deleted_success": "✅ Client successfully deleted",
+    "delete_error": "❌ Error while deleting client",
+    "delete_confirm_title": "Confirmation",
+    "delete_confirm_message": "Do you really want to delete this client?",
+    "delete_confirm_cancel": "Cancel",
+    "delete_confirm_confirm": "Delete",
+    "search_hint": "Search a client...",
+    "empty": "No clients found",
+    "export_pdf": "Export as PDF"
+},
+"partner_catalog": {
+    "title": "Our Partners",
+    "empty": "No products available at the moment.",
+    "load_error": "Failed to load products",
+    "no_link": "No link available",
+    "link_error": "Unable to open link"
+},
+"partners": {
+    "forever": {
+        "aloe": "Aloe Vera & Wellness Products"
+    },
+    "infinity": {
+        "stone": "Luxury Stone Surfaces"
+    },
+    "doterra": {
+        "essential_oils": "Therapeutic Essential Oils"
+    },
+    "lucibell": {
+        "lights": "Wellness Lights & Light Therapy"
+    },
+    "podcalm": {
+        "relax": "Audio Guides & Relaxing Meditation"
+    },
+    "serenity": {
+        "headphones": "Meditation & Wellness Headphones"
+    },
+    "mandalas": {
+        "jewelry": "Energetic jewelry & essential oils"
+    },
+    "spadaccini": {
+        "marble": "Luxury marble & granite"
+    }
+},
+"history": {
+    "title": "History of files",
+    "created": "Created on",
+    "empty": "No file found"
+}
+
+}
